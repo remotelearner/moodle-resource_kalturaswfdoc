@@ -1,6 +1,6 @@
 +Install instructions+
 
-Copy all of the files to mod/resource/type/kalturaswfdoc
+Copy the kalturaswfdoc directory to mod/resource/type/ direcotry.
 
 +Requirements+
 
